@@ -7,7 +7,9 @@ Content Type and Behaviour for common NGO use.
 Credits
 =======
 
-Funded by Southeast Asia Technology and Transparency
+Development funded by Southeast Asia Technology and Transparency
 Initiative http://www.seatti.org
+
+.. image:: http://www.seatti.org/images/SEATTI-Logo-FINAL.png
 
 
